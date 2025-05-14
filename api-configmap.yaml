@@ -5,6 +5,6 @@ metadata:
 data:
 
   API_PORT: "8080"
-  API_DB_FILEPATH: "/var/lib/synergychat/api/db.json"
+  API_DB_FILEPATH: "/persist/db.json"
 
 
